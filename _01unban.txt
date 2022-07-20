@@ -1,0 +1,9 @@
+The 01 ban is not a diffrent ban, it means you was caught trying to unban.
+
+1. Open rockstar launcher app on your computer.
+2. Login to your old account (THE ONE WITH YOUR ORIGINAL BAN).
+3. Delete C:\Users\USERNAME\AppData\Roaming\CitizenFX
+4. Delete C:\Users\USERNAME\AppData\Local\DigitalEntitlements
+5. Go to C:\Windows\System32 > and delete nvml.dll
+6. Then load fivem, and your old ban will be back without the _01.
+7. Then follow a normal method.

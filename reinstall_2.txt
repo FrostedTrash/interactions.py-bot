@@ -1,0 +1,26 @@
+21) Download revo uninstaller - https://www.revouninstaller.com/start-freeware-download/
+22) Remove all microsoft apps (xbox apps) besides microsoft store
+----------------------------------------------------
+23) Open your settings and search for manage your account
+24) Sign into a LOCAL ACCOUNT
+----------------------------------------------------
+25) Open our spoofer and select games > FiveM > Y
+26) Restart your PC
+27) Restart your Router
+28) Spoof again
+29) Open File explorer and go to C:\Windows\System32\DriverStore\FileRepository
+30) Press search at the top right and search for "nvml"
+31) Delete all dlls with "nvml" in them.
+32) Install FiveM
+33) Press your windows key and search for "add and remove apps"
+34) Delete Rockstar Games Social Club and Rockstar Games Launcher
+35) Open GTA V and let it download all the rockstar files
+36) Once GTA V successfully opens and starts loading close it
+37) Go to `C:\Program Files\Rockstar Games\Launcher` and open "Launcher.exe" and login with your NEW social club account
+38) Once it successfully signs you in close the launcher and open FiveM
+READ ME) IF FIVEM DOESN'T OPEN PLEASE OPEN IT AGAIN
+39) Download a VPN (proton VPN or avira) - https://www.avira.com/en/start-download/product/2262/-I12e2mvtstLKUkGnG-U3eKJ0vgZOswiEIJBWASCZ-5OJnvKAcoOl9K4ru2rcrYq
+40) Connect to a VPN server
+41) Login with your new rockstar account from step 14
+42) Wait 10 minutes
+43) Join a server.

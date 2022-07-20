@@ -1,0 +1,209 @@
+        embed = discord.Embed(title="FIFA 22", colour=0x6A5ACD)
+        embed.add_field(
+            name="Information",
+            value=
+            "FIFA 22! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed.add_field(name="Pricing",
+                        value="``` For as low as 25€ \n Original Price = 60€```",
+                        inline=False)
+        embed.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919857758705168394/27159578-fifa-22-cover-kylian-mbappe-2rid3xNzNZef.png"
+        )
+
+        embed2 = discord.Embed(title="Forza Horizon 5", colour=0xFF1493)
+        embed2.add_field(
+            name="Information",
+            value=
+            "Forza Horizon 5! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed2.add_field(name="Pricing",
+                        value="``` For as low as 25€ \n Original Price = 60€```",
+                        inline=False)
+        embed2.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919858642520510474/giphy-downsized-large.gif"
+        )
+
+        embed3 = discord.Embed(title="Battlefield 2042", colour=0x2E8B57)
+        embed3.add_field(
+            name="Information",
+            value=
+            "Battlefield 2042! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed3.add_field(name="Pricing",
+                        value="``` For as low as 25€ \n Original Price = 60€```",
+                        inline=False)
+        embed3.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919860444334792754/battlefield-2042.gif"
+        )
+
+        embed4 = discord.Embed(title="Cyberpunk 2077", colour=0xFFD700)
+        embed4.add_field(
+            name="Information",
+            value=
+            "Cyberpunk 2077! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed4.add_field(name="Pricing",
+                        value="``` For as low as 15€ \n Original Price = 60€```",
+                        inline=False)
+        embed4.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919861354616197130/inbox_793761_cc0e6bba28395eebd4a18a5e32308768_ezgif.com-resize_1.gif"
+        )
+
+        embed5 = discord.Embed(title="Sea of Thieves", colour=0x00FFFF)
+        embed5.add_field(
+            name="Information",
+            value=
+            "Sea of Thieves! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed5.add_field(name="Pricing",
+                        value="``` For as low as 10€ \n Original Price = 40€```",
+                        inline=False)
+        embed5.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919861960122695730/1eb6e78f-dabc-46e0-a4e2-892323416ade.png"
+        )
+
+                embed = discord.Embed(title="Red Dead Redemption 2", colour=0x6A5ACD)
+        embed.add_field(
+            name="Information",
+            value=
+            "Red Dead Redemption 2! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed.add_field(name="Pricing",
+                        value="``` For as low as 15€ \n Original Price = 60€```",
+                        inline=False)
+        embed.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919862525443579924/red-dead-redemption2-red-dead-redemption-two.gif"
+        )
+
+        embed2 = discord.Embed(title="Phasmophobia", colour=0xFF1493)
+        embed2.add_field(
+            name="Information",
+            value=
+            "Phasmophobia! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed2.add_field(name="Pricing",
+                        value="``` For as low as 5€ \n Original Price = 11,59€```",
+                        inline=False)
+        embed2.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919862924233834536/header.png"
+        )
+
+        embed3 = discord.Embed(title="DayZ", colour=0x2E8B57)
+        embed3.add_field(
+            name="Information",
+            value=
+            "DayZ! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed3.add_field(name="Pricing",
+                        value="``` For as low as 15€ \n Original Price = 40€```",
+                        inline=False)
+        embed3.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919863324219424799/1564988510-header-5.png"
+        )
+
+        embed4 = discord.Embed(title="Wallpaper Engine", colour=0xFFD700)
+        embed4.add_field(
+            name="Information",
+            value=
+            "Wallpaper Engine! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed4.add_field(name="Pricing",
+                        value="``` For as low as 2€ \n Original Price = 4€```",
+                        inline=False)
+        embed4.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919866169559765062/header.png"
+        )
+
+        embed5 = discord.Embed(title="Dead by Daylight", colour=0x00FFFF)
+        embed5.add_field(
+            name="Information",
+            value=
+            "Dead by Daylight! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed5.add_field(name="Pricing",
+                        value="``` For as low as 10€ \n Original Price = 40€```",
+                        inline=False)
+        embed5.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919866388976398386/header.png"
+        )
+
+                embed = discord.Embed(title="Hitman 2/3", colour=0x6A5ACD)
+        embed.add_field(
+            name="Information",
+            value=
+            "Hitman 2/3! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed.add_field(name="Pricing",
+                        value="``` For as low as 10€/15€ \n Original Price = 60€```",
+                        inline=False)
+        embed.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919867420217319454/50.png"
+        )
+
+        embed2 = discord.Embed(title="Far Cry 6 with FIFA 22", colour=0xFF1493)
+        embed2.add_field(
+            name="Information",
+            value=
+            "Far Cry 6 with FIFA 22! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed2.add_field(name="Pricing",
+                        value="``` For as low as 30€ \n Original Price = 120€```",
+                        inline=False)
+        embed2.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919869599309258782/pjimage---2021-10-18T152026897.jpg"
+        )
+
+        embed3 = discord.Embed(title="Far Cry 6", colour=0x2E8B57)
+        embed3.add_field(
+            name="Information",
+            value=
+            "Farcry 6! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed3.add_field(name="Pricing",
+                        value="``` For as low as 15€ \n Original Price = 60€```",
+                        inline=False)
+        embed3.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919869903333363772/Large_GIF_1174x570.gif"
+        )
+
+        embed4 = discord.Embed(title="Far Cry 5", colour=0xFFD700)
+        embed4.add_field(
+            name="Information",
+            value=
+            "Far Cry 5! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed4.add_field(name="Pricing",
+                        value="``` For as low as 10€ \n Original Price = 60€```",
+                        inline=False)
+        embed4.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919870385640591370/capsule_616x353.png"
+        )
+
+        embed5 = discord.Embed(title="Windows 11 Key", colour=0x00FFFF)
+        embed5.add_field(
+            name="Information",
+            value=
+            "Windows 11 Key! \n Lifetime warranty! \n Premium Support! \n Works in all countries!",
+            inline=False)
+        embed5.add_field(name="Pricing",
+                        value="``` For as low as 15€ \n Original Price = 30 - 100€```",
+                        inline=False)
+        embed5.set_image(
+            url=
+            "https://cdn.discordapp.com/attachments/907956677217763338/919873808398155796/Best-Windows-11-features-14.png"
+        )

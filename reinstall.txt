@@ -1,0 +1,26 @@
+---{ FIVEM UNBAN TUTORIAL / METHOD }---
+
+1) Go to - https://tb.rg-adguard.net/public.php
+2) Select Windows Final as the type
+3) Select Windows 10 2009 (20H2) as the version
+4) Select windows 10 as the edition
+5) Select your language
+6) Download the files
+7) Extract the ISO File and run the "setup.exe" file
+----------------------------------------------------
+8) Download the rockstar launcher, gta v - https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe
+9) Download discord "canary" - https://canary.discord.com/download (the normal build also works)
+10) Download steam - https://steam.com
+11) Download Premium Spoofer - https://bit.ly/3ztfouV
+12) Download Python 3.9.4 (mac changer) - https://www.python.org/downloads/release/python-394/ 
+----------------------------------------------------
+13) Login to a brand new discord account
+14) Login to a brand new rockstar account
+15) Login to a brand new steam
+----------------------------------------------------
+16) Open CMD
+17) Type "wmic baseboard get Manufacturer,product"
+18) Google the product and Manufacturer
+19) Find a bios flash
+20) Flash your bios
+----------------------------------------------------

@@ -1,0 +1,28 @@
+FiveM Unban Method Server 
+Method made SUPER#1691
+ 
+
+(Download from here: https://www.revouninstaller.com/revo-uninstaller-free-download/)
+1. Revo Unistall discord
+2. Revo Unistall all xbox apps (not Game Bar)
+3. Revo Unistall FiveM
+4. Revo Unistall GTA V
+
+5. Create a new steam account
+6. Create a new rockstar account
+7. Create a new discord account, and link it to FiveM when asked
+8. Buy then download GTAV from rockstar/steam
+9. Sign into a local account on your PC
+
+10. Delete C:\Users\USERNAME\AppData\Roaming\CitizenFX
+11. Delete C:\Users\USERNAME\AppData\Local\DigitalEntitlements
+12. Go to C:\Windows\System32 > and delete nvml.dll
+
+13. Restart your PC
+14. Restart your Router
+
+15. Spoof FiveM (Temp = Manually Spoof On PC Restart | Perm = Auto Spoof On PC Restart)
+16. Check your serials make sure there hidden (In The Application)
+
+17. Connect to a VPN
+18. Start FiveM (If Crash Restart FiveM)

@@ -1,0 +1,40 @@
+Step 6:
+	Download revo uninstaller - https://www.revouninstaller.com/start-freeware-download/
+	Remove all microsoft apps (xbox apps) besides microsoft store
+	Also make sure to remove the app called "Your Phone"
+----------------------------------------------------
+Step 7:
+	Open your settings and search for manage your account, and open it in your settings.
+	If your signed into a microsoft by any chance press the "sign in with local account instead" button and make a local account
+----------------------------------------------------
+Step 8:
+	Go into your 'C:\Windows\System32' folder and delete the following dll "nvml.dll" (this makes a error show when trying to find your uuid)
+    (DO NOT update your nvidia gpu otherwise you'll get rebanned.)
+	Open our spoofer and select games > FiveM > Y
+	When the spoofer is done spoofing open cmd and type `wmic bios get serialnumber` if it comes back as "        " then it spoofed, but if it shows a serialnumber it didn't spoof.
+	(If it doesn't spoof just open a ticket.)
+
+
+    THIS FOLLOWING PART IS OPTIONAL
+	-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    this is not necessary but its recommended.
+	Download the "FakeData Blocker" and run it as admin. (https://mega.nz/file/j7gmEbrI#wspXOn8wZyDKkrmrDNiPPmZn78jOQ_5anZgiUJNJ9Ec)	
+	(DO NOT close it as its needed to block FiveM from using yourphone/whoami, but beware it may use up to 15% CPU Usage.)
+	-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+	Install FiveM (when it wants you to login close it)
+	Press your windows key and search for "add and remove apps"
+	Delete Rockstar Games Social Club and Rockstar Games Launcher
+	Download the rockstar games launcher again and login to your old account
+	Open GTA V and let it download all the rockstar files
+	Once GTA V successfully opens and starts loading close it
+	Open the rockstar games launcher and sign out of your current account and sign into a new one
+	Once it successfully signs you in close the launcher
+	Download a VPN (proton VPN or avira) - https://www.avira.com/en/start-download/product/2262/-I12e2mvtstLKUkGnG-U3eKJ0vgZOswiEIJBWASCZ-5OJnvKAcoOl9K4ru2rcrYq
+			Connect to a VPN server (this is only if your banned from servers)
+	Download TMAC and change your mac address (change the one your currently connected to) - Download: https://technitium.com/tmac/
+	Login with your new rockstar account from step 3
+			IF FIVEM WANTS YOU TO GIVE IT ACCESS TO YOUR INTERNET JUST PRESS CANCEL
+	When FiveM opens alt tab and wait 10 minutes
+	Join a server and play

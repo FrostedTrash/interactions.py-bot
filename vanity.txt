@@ -1,0 +1,36 @@
+Requirements
+(USB/FLASHDRIVE - 4/8GB - PLEASE ONLY SPOOF AFTER YOU FLASH YOUR BIOS)
+
+
+-----Reinstalling Windows------
+1) Download the ISO (64-BIT - https://software-download.microsoft.com/db/Win10_20H2_English_x64.iso?t=ffdca339-7dfa-469d-ac74-7f4918a01c72&e=1627340861&h=91c71553af37bb74a339dfbee22519cd)
+                    (32 BIT OPTION - https://software-download.microsoft.com/db/Win10_20H2_English_x32.iso?t=ffdca339-7dfa-469d-ac74-7f4918a01c72&e=1627340861&h=b0aee6b0c7b033a040f29d83a7390888)
+2) Download Rufus and convert the ISO into a bootable USB (Rufus - https://rufus.ie/en_US/)
+3) Power off your PC and enter your bios
+4) Go into your Boot Menu and change your Boot Order Priorty from Hard Drive/Hard Disk to the USB flash drive as 1st priority
+5) Save the settings and close out of your bios
+6) Restart your PC and install Windows
+                    While installing windows PLEASE do not use a microsoft account
+                    (ANOTHER WAY TO REINSTALL WINDOWS)
+                    Download the installation media tool (https://download.microsoft.com/download/d/5/2/d528a4e0-03f3-452d-a98e-3e479226d166/MediaCreationTool21H1.exe)
+                    Open it and reinstall Windows
+7) Run CMD as ADMINISTATOR and type this following command to verify windows (DISM /Online /Cleanup-Image /RestoreHealth /Source:repairSource\install.wim)
+8) Once that is finished please open CMD and type this following command to see your baseboard model (wmic baseboard get product,Manufacturer)
+                    If it comes back as (______) please reinstall windows again
+9) Copy your baseboard product,Manufacturer and google this "ProductNameHere ManufacturerNameHere Bios Update"
+10) Download your bios update
+                    If your bios are already up to date please go back 2 versions but make sure they are supported with your system
+11) Update your bios
+12) Download Python 3.9.4 (mac changer) - https://www.python.org/downloads/release/python-394/ 
+13) Make NEW accounts for the following (FiveM, Discord, Steam, Local Account, & PC)
+14) Download revo uninstaller - https://www.revouninstaller.com/start-freeware-download/
+15) Remove all microsoft apps
+16) Open your file explorer and go to (C:\Windows\System32) and delete "nvml.dll" (there is more but do not delete all of them otherwise your system will not work)
+17) Download a NEW copy GTA V (with a new social club account on the social club launcher) "NOT EPIC FUCKING GAMES/STEAM"
+18) Download FiveM and close it right before it opens to make you sign in
+19) Download a VPN and connect to any server
+20) Open FiveM and sign into a new account
+21) Wait 10 minutes then join a server
+
+
+(THIS METHOD IS EARLY RELEASE AND IS CURRENTLY BEING TESTED!)

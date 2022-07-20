@@ -1,0 +1,71 @@
+FiveM Unban Method Global - Updated 16/11/21
+Method made SUPER (NEW)#8155
+
+!!!! (How ever this is working for no reinstall / bios flash we recommend to) !!!!
+
+----------------------------------------------------------------------------------------------------
+
+
+Downloads: 
+    (Download from here: https://www.revouninstaller.com/revo-uninstaller-free-download/)
+    (Download from here: https://fivem.net/)
+    (Download from here: https://protonvpn.com/)
+
+Step (1) Revo Unistall:
+    - IMPORTANT: When using revo uninstaller, make sure to delete all additional additions;
+    
+Make sure that you select all left over items, then click delete:
+https://cdn.discordapp.com/attachments/896100225926709343/902970230056316928/Untitled.png
+
+    - Revo Unistall All Xbox Apps + Phone Apps
+    - Revo Unistall FiveM
+    - Revo Unistall GTA V
+    - Revo Unistall Discord
+    - Revo Unistall Steam 
+    - Revo unistall Rockstar games launcher
+
+Step (2) Create New Accounts:
+    - Create new steam account
+    - Create new rockstar account, purchase. (IF YOU GET REBANNED USE A ROCKSTAR ACCOUNT WITH PREVIOUS ACTIVITY : AKA _01 Unban Method)
+    - Download discord create a new account, and wait (Yes you can use your old account, but not yet)
+
+Step (3) VPN:
+    - Download a VPN proton VPN is free.
+    - Use the VPN, for a while.
+
+Step (4) MIC/BIOS:
+    - Make a local account on microsoft. (If already on SKIP)
+    - Flash your BIOS (Not needed - But highly recommended)
+
+Step (5) REGISTERY:
+    - Press Win+R and type in regedit
+    - Copy paste this Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography into This : https://prnt.sc/u81teq
+    - Double Click MachineGuid / Now Change the Last 4 digits randomly!
+
+    - Press Win+R and type in regedit
+    - Copy paste this Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+    - Double Click ProductID and make a Photo / Change the last 4 Numbers Randomly!
+
+Step (6) Delete Files:
+    - Delete C:\Users\USERNAME\AppData\Roaming\CitizenFX
+    - Delete C:\Users\USERNAME\AppData\Local\DigitalEntitlements
+    - Delete C:\Users\USERNAME\AppData\Local\FiveM
+    - Delete C:\Windows\System32\nvml.dll [IF YOU UPDATE YOUR GPU DRIVERS YOU WILL GET REBANNED]
+
+Step (7) GPU (NVIDA):
+        - Open Device Manager < Expand Display Adapters < Right click your GPU(s) < Disable Device < Uninstall Device (check the delete device software button)
+        - AFTER YOU VERIFY YOUR UNBANNED FROM FIVEM YOU CAN DOWNLOAD GEFORCE EXPERIENCE TO REINSTALL YOUR GPU!
+
+Step (8) Using the spoofer:
+    - Open super spoofer and login (make sure latest vers):
+    - Go to game spoofer, click spoof fivem (This will do everything in system spoof, so you only have to click spoof fivem)
+    - (!!!) WAIT AT LEAST 5 MINS LET THE SPOOFER FINISH EVEN IF U GET THE COMPLETED POPUP (go get a drink or somethin)
+    - Close any left over cmd prompts (if none leave)
+    - Check that your pc name has been changed -> Windows > PC Name 
+    - Check your serials have been nulled
+
+Step (9) Finishing and loading fivem
+    - Download a new GTA5 copy, from steam or buy from a seller (Rockstar Games) [NOT EPIC FUCKING GAMES]
+    - Download FiveM and close it right before it opens to make you sign in
+    - Relaunch make sure VPN connected
+    - Join a server: Stay on the server for 30+ minutes before you disconnect, otherwise you'll get rebanned!

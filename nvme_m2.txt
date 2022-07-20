@@ -1,0 +1,40 @@
+NVME M.2 method
+YOU MUST FLASH YOUR BIOS!
+Welcome to Premium Spoofer! *FiveM unban method*
+This works for token bans + global bans!
+
+Step 1:
+	Go to - https://tb.rg-adguard.net/public.php
+	Select Windows Final as the type
+	Select Windows 10 2009 (20H2) as the version
+	Select windows 10 as the edition
+	Select your language
+	Download the files
+	Extract the ISO File and put it on your usb
+	Restart your pc and go into your boot manager and reinstall windows
+----------------------------------------------------
+Step 2:
+	Download the rockstar launcher, gta v (you can install gta v from steam/rockstar launcher) - https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe
+	Download discord - (https://discordapp.com)
+	Download steam - https://steam.com
+	Download Premium Spoofer (/download in the discord server)
+----------------------------------------------------
+Step 3:
+	Make a brand new discord account
+	Make a brand new rockstar account
+	Make a brand new steam
+----------------------------------------------------
+Step 4:
+	Open CMD
+	Type "wmic baseboard get Manufacturer,product"
+	Copy your motherboard name etc and google it but look for a (bios update)
+	Find a bios flash and download it
+	Open your bios flash zip and look for a exe and open it (if you don't see a exe then you need a usb)
+----------------------------------------------------
+Step 5:
+	Open CMD and type "wmic baseboard get Manufacturer,product"
+	Copy your motherboard name/product and google it and go onto the manufacturers site.
+	Find a driver update for your On-Board SATA AHCI/RAID Drivers it should look something like this - https://cutt.ly/HWNIImX
+	Download the driver update and extract it to your desktop
+	Finally open the setup exe and update your ide controller :)
+----------------------------------------------------
